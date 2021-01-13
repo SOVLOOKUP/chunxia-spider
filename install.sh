@@ -1,4 +1,5 @@
 #! /bin/bash
+mkdir data
 echo
 echo ">>> build -> postgresql"
 
