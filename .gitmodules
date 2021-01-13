@@ -1,0 +1,3 @@
+[submodule "spider-displayer"]
+	path = spider-displayer
+	url = https://github.com/SOVLOOKUP/spider-displayer.git
