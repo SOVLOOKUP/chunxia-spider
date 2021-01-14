@@ -7,3 +7,5 @@ sudo docker stop ng
 sudo docker rm ng 
 sudo docker stop fa 
 sudo docker rm fa 
+
+sudo rm -rf ./data
