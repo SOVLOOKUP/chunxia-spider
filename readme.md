@@ -10,3 +10,12 @@
 1. [x] fastapi爬虫写库
 2. [x] 前端增加爬取按钮
 
+## stack
+
+React
+
+icejs + fusion desgin
+
+FastApi
+
+Postgresql
