@@ -3,7 +3,7 @@
 
 1. 安装docker
 2. `git clone --recurse-submodules https://github.com/SOVLOOKUP/chunxia-spider` 
-3. `cd chunxia-spider` && sudo sh ./install.sh`
+3. `cd chunxia-spider && sudo sh ./install.sh`
 
 ## TODO
 
