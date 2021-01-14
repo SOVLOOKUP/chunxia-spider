@@ -2,7 +2,7 @@
 ## 安装
 
 1. 安装docker
-2. `git clone --recurse-submodules https://github.com/SOVLOOKUP/spider-displayer` 
+2. `git clone --recurse-submodules https://github.com/SOVLOOKUP/chunxia-spider` 
 3. `cd spider-displayer && sudo sh ./install.sh`
 
 ## TODO
