@@ -25,7 +25,7 @@ Postgresql
 
 ## 展示
 
-![](https://s3.ax1x.com/2021/01/15/sdvzDJ.png)
+![深度截图_选择区域_20210115145237.png](https://i.loli.net/2021/01/15/aWMrfQ8L3ebVUCd.png)
 
 ![](https://s3.ax1x.com/2021/01/15/sdxSb9.md.png)
 
