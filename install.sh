@@ -22,7 +22,7 @@ echo
 echo ">>> build -> icejs"
 cd ./spider-displayer
 echo "如果不需要build 请忽略"
-sudo yarn && yarn build
+# sudo yarn && yarn build
 cd ..
 
 echo

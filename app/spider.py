@@ -80,11 +80,27 @@ def write_to_database(url,content,imgurl,title):
 
 # 只需要爬取条数/爬取来源的参数即可，函数名为ｍａｉｎ
 # 我移除了loop式async，此特性已经弃用，无法部署
-def main(count:int,source:str):
+def main(count:int,source:str,keyword:str):
     get_datas(
         get_urls(count)
     )
 
-if __name__ == "__main__":
+
+
+class spider():
+    def __init__(self,graphServer:str):
+        # [graphServer] - graph server address
+        pass
+
+    def sourceList(self) -> list:
+        # return list of source can crawl
+        return ["微信"]
+
+    def crawl(self,count:int,source:str,keyword:str) -> None:
+        # start crawl and write in database
+        main(count,source,keyword)
+
+
+# if __name__ == "__main__":
     
-    main(10,"wx")
+#     main(10,"wx")
